@@ -11,6 +11,6 @@ My FX came with card readers, but they didn't include the original box. I modele
 
 ## Pictures
 
-![Fusion 360 screenshot](/pictures/card-reader-mount/screenshot.png)
+![Fusion 360 screenshot](pictures/card-reader-mount/screenshot.png)
 
-![Mounted P2 card reader](/pictures/card-reader-mount/reader.jpg)
+![Mounted P2 card reader](pictures/card-reader-mount/reader.jpg)
