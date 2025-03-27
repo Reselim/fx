@@ -13,8 +13,8 @@ The bracket closes in right after the mounting plate for this specific model to 
 
 ## Pictures
 
-![Fusion 360 screenshot](pictures/hard-drive-bay-mount/screenshot.png)
+![Fusion 360 screenshot](pictures/screenshot.png)
 
-![Hard drive bay, unmounted](pictures/hard-drive-bay-mount/unmounted.jpg)
+![Hard drive bay, unmounted](pictures/unmounted.jpg)
 
-![Hard drive bay, mounted](pictures/hard-drive-bay-mount/mounted.jpg)
+![Hard drive bay, mounted](pictures/mounted.jpg)

@@ -9,10 +9,10 @@ Since the PIUIO is only designed to go in an AGP slot, when I upgraded my MK6 to
 
 ## Pictures
 
-![Fusion 360 screenshot](pictures/mk6-piuio-mount/screenshot.png)
+![Fusion 360 screenshot](pictures/screenshot.png)
 
-![Mount with heat set inserts applied](pictures/mk6-piuio-mount/heat-set-inserts.jpg)
+![Mount with heat set inserts applied](pictures/heat-set-inserts.jpg)
 
-![Mount attached to case, with PIUIO not attached to it](pictures/mk6-piuio-mount/piuio-unmounted.jpg)
+![Mount attached to case, with PIUIO not attached to it](pictures/piuio-unmounted.jpg)
 
-![Mount attached to case, with PIUIO attached to it](pictures/mk6-piuio-mount/piuio-mounted.jpg)
+![Mount attached to case, with PIUIO attached to it](pictures/piuio-mounted.jpg)
