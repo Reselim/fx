@@ -9,7 +9,7 @@ You could modify this to support any 5.25" bay, but the bracket closes in right 
 - 8x M3x8 Truss-head Screws
 - 2x M6 Nut
 - 2x M6x40mm Screws
-  - These replace the screws that bolt the button panel's box to the rest of the cab.
+  - These replace the screws that bolt the button panel's box to the rest of the cab to give more length for an M6 nut.
 
 ## Pictures
 
