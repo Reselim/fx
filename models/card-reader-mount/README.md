@@ -13,4 +13,8 @@ My FX came with card readers, but they didn't include the original box. I modele
 
 ![Fusion 360 screenshot](pictures/screenshot.png)
 
-![Mounted P2 card reader](pictures/reader.jpg)
+![Printed parts with heat set inserts applied](pictures/heat-set-inserts.jpg)
+
+![Both readers mounted to cab](pictures/both-reader.jpg)
+
+![Mounted P1 card reader](pictures/p1-reader.jpg)
